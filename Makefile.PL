@@ -30,5 +30,7 @@ feature 'JSON::DWIW',
 # Build dependencies
 build_requires 'Test::More' => '0';
 
+repository 'https://github.com/xevo/XML-XML2JSON';
+
 auto_install;
 WriteAll;
